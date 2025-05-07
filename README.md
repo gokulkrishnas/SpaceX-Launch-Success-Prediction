@@ -53,7 +53,7 @@ Using scikit-learn, classification models (Logistic Regression, SVM, Random Fore
 - Payload
 - Booster version category
 
-📌 **Best performing model:** Logistic Regression with highest accuracy
+📌 **Best performing model:** Random Forest Classifier with highest accuracy
 
 ## 🌍 Geospatial Analysis
 
